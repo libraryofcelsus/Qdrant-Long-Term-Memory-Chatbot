@@ -1,5 +1,5 @@
-# Basic-Long-Term-Memory-Chatbot
-Example code for a basic Long Term Memory Chatbot.  It uses a conversation history list and a vector database.
+# Qdrant-Long-Term-Memory-Chatbot
+Example code for a basic Long Term Memory Chatbot using Qdrant and a conversation history list.
 
 If you find this code useful, consider checking out my main Ai Assistant project: https://github.com/libraryofcelsus/Aetherius_AI_Assistant
 
